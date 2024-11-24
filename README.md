@@ -6,6 +6,7 @@ En este proyecto incluye los siguientes puntos.
 - **PRODUCTOS.**
 - **PRECIOS.**
 - **LOGO.**
+- **VISTA PREVIA**
 
 Y para este proyecto he empleado dos lenguajes de programación para realizarlo. 
 - **HTML.**
