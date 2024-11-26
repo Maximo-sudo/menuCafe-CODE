@@ -33,5 +33,10 @@ Los colores cálidos y los detalles gráficos refuerzan la temática acogedora d
 ├── index.html        # Archivo principal de la página web
 ├── style.css         # Estilos para el diseño del menú
 ├── README.md         # Documentación del proyecto
-└──vistaPrevia-logosEmpleados
-      ├──
+└── vistaPrevia-logosEmpleados
+      ├── coffee.jpg
+      ├── pie.jpg
+      └── vistaPrevia.png
+
+
+
