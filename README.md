@@ -26,7 +26,7 @@ El diseño del menú incluye:
    - **Sección de Postres:** Incluye opciones como Donut, Cherry Pie y Cinnamon Roll.
 Los colores cálidos y los detalles gráficos refuerzan la temática acogedora del café, brindando una experiencia visual atractiva.
 
-## 📂 **Estructura del Proyecto**
+## **Estructura del Proyecto** 📂 
 
 ```plaintext
 📁 Camper-Cafe
