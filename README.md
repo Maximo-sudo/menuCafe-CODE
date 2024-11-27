@@ -34,9 +34,9 @@ Y para este proyecto he empleado lo siguiente:
 ├── style.css         # Estilos para el diseño del menú
 ├── README.md         # Documentación del proyecto
 └── vistaPrevia-logosEmpleados
-      ├── coffee.jpg
-      ├── pie.jpg
-      └── vistaPrevia.png
+      ├── coffee.jpg         # Logo
+      ├── pie.jpg            # Logo
+      └── vistaPrevia.png    # Vista Previa
 
 
 
