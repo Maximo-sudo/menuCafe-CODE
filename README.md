@@ -1,6 +1,12 @@
 # Café Menú - Página Web Simple  
 Este proyecto es una página web sencilla diseñada para mostrar el menú de un café, combinando un diseño simple y gustosa que refleja la temática de una cafetería.
 
+## **Vista Previa** 🖥️
+El diseño del menú incluye:
+   - **Sección de Cafés:** Con bebidas como Mocha, Pumpkin Spice y más.
+   - **Sección de Postres:** Incluye opciones como Donut, Cherry Pie y Cinnamon Roll.
+Los colores cálidos y los detalles gráficos refuerzan la temática acogedora del café, brindando una experiencia visual atractiva.
+
 ## **Características** 🖥️
 En este proyecto se incluyen los siguientes elementos clave:
 - **Productos Y Precios:** Opciones populares de café y postres como Mocha, Pumpkin Spice, Donut, Cherry Pie y Cinnamon Roll.
@@ -19,12 +25,6 @@ Y para este proyecto he empleado lo siguiente:
    - Clona este repositorio en tu equipo:
    ```bash
    git clone https://github.com/Maximo-sudo/menuCafe-CODE.git
-
-## **Vista Previa** 🖥️
-El diseño del menú incluye:
-   - **Sección de Cafés:** Con bebidas como Mocha, Pumpkin Spice y más.
-   - **Sección de Postres:** Incluye opciones como Donut, Cherry Pie y Cinnamon Roll.
-Los colores cálidos y los detalles gráficos refuerzan la temática acogedora del café, brindando una experiencia visual atractiva.
 
 ## **Estructura del Proyecto** 📂 
 
