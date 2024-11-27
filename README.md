@@ -1,7 +1,7 @@
 # Café Menú - Página Web Simple  
 Este proyecto es una página web sencilla diseñada para mostrar el menú de un café, combinando un diseño simple y gustosa que refleja la temática de una cafetería.
 
-## **Vista Previa** 🖥️
+## **Vista Previa** 🌐
 El diseño del menú incluye:
    - **Sección de Cafés:** Con bebidas como Mocha, Pumpkin Spice y más.
    - **Sección de Postres:** Incluye opciones como Donut, Cherry Pie y Cinnamon Roll.
