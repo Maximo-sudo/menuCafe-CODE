@@ -6,6 +6,7 @@ El diseño del menú incluye:
    - **Sección de Cafés:** Con bebidas como Mocha, Pumpkin Spice y más.
    - **Sección de Postres:** Incluye opciones como Donut, Cherry Pie y Cinnamon Roll.
 Los colores cálidos y los detalles gráficos refuerzan la temática acogedora del café, brindando una experiencia visual atractiva.
+               ![vistaPrevia](https://github.com/user-attachments/assets/fb240595-3aac-4ce8-a76a-6f4728d4f94d)
 
 ## **Características** 🖥️
 En este proyecto se incluyen los siguientes elementos clave:
